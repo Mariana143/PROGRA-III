@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TRITON 300\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TRITON 300\\.nuget\\packages"
+    ]
+  }
+}
